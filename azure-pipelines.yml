@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: eoldev1
+pool: Default
 #  vmImage: 'ubuntu-latest'
 
 steps:
