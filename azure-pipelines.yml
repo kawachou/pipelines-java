@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: Defalut
+pool: eoldev1
 #  vmImage: 'ubuntu-latest'
 
 steps:
